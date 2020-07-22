@@ -1,0 +1,31 @@
+ion-col{
+    background-color: #f0f3f5;
+}
+
+ion-scroll[scrollX]{
+    white-space:nowrap;
+    height:120px;
+    overflow:hidden;
+    .scroll-item{
+        display:inline-block;
+    }
+
+ion-avator img{
+    margin:10px;
+}
+
+//ion-card{
+    //height:100px;
+    //width: 100px;
+//}
+}
+ion-scroll[scroll-avatar]{
+    height:60px;
+}
+::-webkit-scrollbar{
+    display:none;
+}
+$colors:(
+    primary: #488aff,
+    secondary: #32db64,
+)

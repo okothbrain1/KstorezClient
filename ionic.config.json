@@ -1,0 +1,8 @@
+{
+  "name": "CreateOrder",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "38093db"
+}
